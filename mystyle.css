@@ -1,0 +1,82 @@
+body{ background-color: snow;
+    margin: 0% 10%;}
+
+.logo{font-size: larger;
+    font-weight: 900;
+}
+
+nav{margin-top:1%;
+    display: flex;
+    justify-content: space-between;}
+.menu{ word-spacing: 40px;
+margin-top: 3%;}
+
+.profile{ display: flex;
+    justify-content: space-between;
+margin-right: 5%;
+margin-top: 0%;}
+
+#snap{width: 35px;
+    height: 35px;
+object-fit: cover;
+border-radius: 50%;
+padding: 30px;}
+
+#cart{height: fit-content;
+    width: auto;
+    padding: 30px;
+margin-top: 4%;}
+
+a{ text-decoration: none;
+color: gray;}
+
+.two{display: flex;
+justify-content: space-between;}
+
+.sneaker{
+flex-basis: auto;}
+
+.shoes{
+display: block;
+margin-right: 3%;
+box-shadow: 5px;
+flex-basis: auto;
+font-size:20px;
+float: left;}
+
+.thumbnail{display: flex;
+justify-content: space-between;
+flex-basis: auto;
+}
+
+.more{border-radius: 10px;}
+
+h3{ color: rgb(244, 110, 26); font-size: smaller;}
+
+.name{color:black;
+font-size:50px;}
+
+p{color: grey;
+text-align: left;
+font-size:larger;}
+
+.big{border-radius: 5%;}
+
+.add{ background-color:rgb(242, 131, 47);
+    float: right;
+margin-right: 20%;
+border-radius: 5px;
+padding: 7px 20px;}
+
+.addt{color: white;
+padding-left: 10px;
+font-size: medium;}
+
+.inc{ float: left;
+background-color: rgb(224, 237, 244);
+border-radius: 8px;
+padding: 5px 20px;}
+.percent{font-size: smaller; 
+    color: rgb(244, 74, 12);
+background-color: rgb(238, 193, 176);
+border-radius: 2px;}
